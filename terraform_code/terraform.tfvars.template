@@ -1,0 +1,11 @@
+email                   = "<EMAIL>"
+username                = "<USERNAME>"
+user_group_prefix       = "<PREFIX>"
+user_group_suffix       = "<SUFFIX>"
+azure-region            = "<AZ_REGION>"
+dbx_admin_group_name    = "<DBX_ADMIN_GROUP_NAME>"
+admin_flag              = "<ADMIN_FLAG>"
+
+azure-subscription-id       = "<AZ_SUBSCRIPTION_ID>"
+dbx-account-id              = "<DBX_ACCOUNT_ID>"
+dbx-metastore-id            = "<DBX_METASTORE_ID>"

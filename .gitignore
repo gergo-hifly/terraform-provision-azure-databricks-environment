@@ -1,0 +1,11 @@
+terraform_states
+*.tfvars
+terraform_code/.terraform
+terraform.tfstate*
+.terraform*
+.venv
+config/admin_config.json
+.idea/
+.DS_Store
+__pycache__
+
